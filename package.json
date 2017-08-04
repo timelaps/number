@@ -1,0 +1,27 @@
+{
+  "name": "@timelaps/number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "share": "npm version patch && git push && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timelaps/number.git"
+  },
+  "keywords": [],
+  "author": "Michael McLaughlin <michael@gospecless.com> (https://gospecless.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timelaps/number/issues"
+  },
+  "homepage": "https://github.com/timelaps/number#readme",
+  "devDependencies": {
+    "@timelaps/batterie": "^1.0.70"
+  },
+  "dependencies": {
+    "@timelaps/is": "^1.0.5"
+  }
+}
