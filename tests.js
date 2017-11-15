@@ -4,6 +4,8 @@ require('./euclidean-distance/index.test');
 require('./euclidean-distance/origin/index.test');
 require('./floor/index.test');
 require('./index.test');
+require('./max/index.test');
+require('./min/index.test');
 require('./round/index.test');
 require('./to-integer/index.test');
 require('./under1/index.test');
